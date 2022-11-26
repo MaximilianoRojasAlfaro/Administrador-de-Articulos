@@ -61,7 +61,6 @@ namespace negocio
             }
         }
 
-
         public void agregar(Articulo articulo)
         {
             try

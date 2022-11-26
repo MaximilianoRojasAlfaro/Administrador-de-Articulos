@@ -164,13 +164,22 @@ namespace presentacion1
         {
             foreach (char caracter in cadena)
             {
-                if (!(char.IsNumber(caracter)) && !modificar)
+                int i = 0;
+                if (!(char.IsNumber(caracter)))
                 {
-                    if (!(caracter.Equals('.')))
+                    if (!(caracter.Equals('.')) || i != 0)
                     {
                         return false;
                     }
+                    else
+                    {
+                        i++;
+                    }
                 }
+            }
+            if (cadena.StartsWith(".") || cadena.EndsWith("."))
+            {
+                return false;
             }
             return true;
         }

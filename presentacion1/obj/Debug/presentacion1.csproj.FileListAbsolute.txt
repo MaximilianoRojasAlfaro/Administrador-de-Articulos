@@ -1,0 +1,36 @@
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\presentacion1.exe
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\presentacion1.pdb
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\dominio.dll
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\negocio.dll
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\dominio.pdb
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\negocio.pdb
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.CopyComplete
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.exe
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.pdb
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.frmAdminArticulos.resources
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.AgregarArticulo.resources
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.Detalles.resources
+C:\Users\Administrador\Desktop\TPFinalNivel2_Rojas\presentacion1\bin\Debug\presentacion1.exe.config
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\presentacion1.exe.config
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\presentacion1.exe
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\presentacion1.pdb
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\dominio.dll
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\negocio.dll
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\dominio.pdb
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\bin\Debug\negocio.pdb
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.AssemblyReference.cache
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.SuggestedBindingRedirects.cache
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.frmAdminArticulos.resources
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.AgregarArticulo.resources
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.Detalles.resources
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.Properties.Resources.resources
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.GenerateResource.cache
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.CoreCompileInputs.cache
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.csproj.CopyComplete
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.exe
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\presentacion1\obj\Debug\presentacion1.pdb

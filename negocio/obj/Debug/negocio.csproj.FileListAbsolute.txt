@@ -1,0 +1,18 @@
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\bin\Debug\negocio.dll
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\bin\Debug\dominio.dll
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\bin\Debug\dominio.pdb
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\obj\Debug\negocio.dll
+C:\Users\Administrador\Desktop\PruebasActividadFinal\negocio\obj\Debug\negocio.pdb
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\bin\Debug\negocio.dll
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\bin\Debug\negocio.pdb
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\bin\Debug\dominio.dll
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\bin\Debug\dominio.pdb
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\obj\Debug\negocio.dll
+D:\Curso C# Nivel 2\TPFinalNivel2_Rojas\negocio\obj\Debug\negocio.pdb
